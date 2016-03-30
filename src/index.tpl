@@ -27,7 +27,7 @@
 								<span class="contact__label">Location:</span> Vilnius, Lithuania<br/>
 							</div>
 							<div>
-								<span class="contact__label">Phone:</span> +370 662 18825<br/>
+								<span class="contact__label">Phone:</span> +370 662 18825, +370 640 22795<br/>
 							</div>
 							<div>
 								<span class="contact__label">E-mail:</span>
